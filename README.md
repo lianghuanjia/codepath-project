@@ -29,6 +29,38 @@ Optional Nice-to-have Stories
 
 
 ---
+### app screens list
+Login Screen
+  User can login
+Registration Screen
+  User can create a new account
+Stream
+  User can view a feed of available spots
+Creation
+  User can post a avaible spots
+Release
+  User can release a spot
+Search
+  User can search for other users
+
+### Navigation
+
+
+List all your screens from above. Under each screen, list the screens you can navigate to from that screen.
+
+Login Screen
+=> Home
+Registration Screen
+=> Home
+Stream Screen
+=> None, but future version will likely involve navigation to a detailed screen to see comments for each photo.
+Creation Screen
+=> Home (after you finish posting the spot)
+Release Screen
+=> Home (after you finish releasing the spot)
+Search Screen
+=> None
+
 
 ### Wireframes
 // TODO: Add Wireframe Images
