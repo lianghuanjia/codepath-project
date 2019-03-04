@@ -24,8 +24,8 @@ Allows UCI students to have a better parking experience by keep tracking of avai
 
 Optional Nice-to-have Stories
 
-User can add photo to their spots
-User can receive notifications once there are availble spots
+1.User can add photo to their spots
+2.User can receive notifications once there are availble spots
 
 
 ---
