@@ -30,17 +30,17 @@ Optional Nice-to-have Stories
 
 ---
 ### app screens list
-Login Screen
+1. Login Screen
   User can login
-Registration Screen
+2. Registration Screen
   User can create a new account
-Stream
+3. Stream
   User can view a feed of available spots
-Creation
+4. Creation
   User can post a avaible spots
-Release
+5. Release
   User can release a spot
-Search
+6. Search
   User can search for other users
 
 ### Navigation
@@ -48,17 +48,17 @@ Search
 
 List all your screens from above. Under each screen, list the screens you can navigate to from that screen.
 
-Login Screen
+1. Login Screen
 => Home
-Registration Screen
+2. Registration Screen
 => Home
-Stream Screen
+3. Stream Screen
 => None, but future version will likely involve navigation to a detailed screen to see comments for each photo.
-Creation Screen
+4. Creation Screen
 => Home (after you finish posting the spot)
-Release Screen
+5. Release Screen
 => Home (after you finish releasing the spot)
-Search Screen
+6. Search Screen
 => None
 
 
